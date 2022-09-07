@@ -1,5 +1,7 @@
 # Grafana dashboards for Confluent Platform
 
+> temporal hosting 'til https://github.com/confluentinc/jmx-monitoring-stacks/pull/82 gets merged
+
 ## Dashboards
 
 - Confluent Platform overview: main metrics from all Confluent components.
